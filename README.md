@@ -2,6 +2,10 @@
 - the reward will be for each language so for eaxample if you will pull for eng and spanish and will be validated you will be rewarded with 20K MYCN on the provided MYCN address for donations.
 
 
+This is the MyCoin Address from where the coins will be paid!
+
+bc1qzye2gs3mja20n3jcew07udlq9g4rklue2wyzrp
+
 =====================================
 <b>Instalation on:</b>
 
