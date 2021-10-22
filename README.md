@@ -7,6 +7,7 @@ This is the MyCoin Address from where the coins will be paid!
 bc1qzye2gs3mja20n3jcew07udlq9g4rklue2wyzrp
 
 =====================================
+
 <b>Instalation on:</b>
 
 [Dependencies](http://utgqnthifz425xaprmzpcorvzshpecnkmbl5iqhpyh7wvcrfdhsdq7id.onion/mycoin/core/src/branch/master/doc/dependencies.md)
