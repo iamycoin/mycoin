@@ -1,5 +1,7 @@
 10k MYCN reward for who is pulling first the source code for MyCoin with gif pictures for each installation level.
 - the reward will be for each language so for eaxample if you will pull for eng and spanish and will be validated you will be rewarded with 20K MYCN on the provided MYCN address for donations.
+
+
 =====================================
 <b>Instalation on:</b>
 
